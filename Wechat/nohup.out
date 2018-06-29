@@ -1,0 +1,4 @@
+  File "timedTask.py", line 15
+    else if nowTime == "17:30:00" 
+          ^
+SyntaxError: invalid syntax
